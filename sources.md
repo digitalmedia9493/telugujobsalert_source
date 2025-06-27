@@ -23,3 +23,11 @@ These are our own websites where we publish additional job alerts, news, Govt. S
 - [https://freejobalert.com.im/](https://freejobalert.com.im/)
 - [https://telugupublicnews.in/](https://telugupublicnews.in/)
 - [https://annadathasukhibhava.co.in/](https://annadathasukhibhava.co.in/)
+
+## ⚠️ Disclaimer
+
+- The Telugu Job Alerts app is **not affiliated with any government entity**.
+- We do **not host, modify, or alter any government data**.
+- All content is collected from **publicly available sources** and official government websites.
+- We do **not publish confidential or sensitive data**.
+- Users are advised to verify job and scheme details directly from the official websites before applying or taking action.
