@@ -1,4 +1,4 @@
-# 📚 Source of Information – Telugu Job Alerts
+# 📚 Source of Information – RS Technologees
 
 This document contains a list of official government websites used as sources in our app for job alerts, schemes, and news.
 
@@ -23,6 +23,7 @@ These are our own websites where we publish additional job alerts, news, Govt. S
 - [https://freejobalert.com.im/](https://freejobalert.com.im/)
 - [https://telugupublicnews.in/](https://telugupublicnews.in/)
 - [https://annadathasukhibhava.co.in/](https://annadathasukhibhava.co.in/)
+- https://postalinsurancecalc.com/
 
 ## ⚠️ Disclaimer
 
