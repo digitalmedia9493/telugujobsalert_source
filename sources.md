@@ -8,13 +8,17 @@ This document contains a list of official government websites used as sources in
 - [RRB](http://www.rrbcdg.gov.in/)
 - [India.gov.in](https://www.india.gov.in/)
 
-## 📍 Andhra Pradesh Government
+## 📍 Andhra Pradesh State
 - [APPSC](https://psc.ap.gov.in/)
 - [AP Government Schemes](https://www.ap.gov.in/)
 
-## 📍 Telangana Government
+## 📍 Telangana State
 - [TSPSC](https://www.tspsc.gov.in/)
 - [TS Govt Schemes](https://www.telangana.gov.in/)
+
+## 📍 Karnataka State
+- https://apps.karnataka.gov.in/
+- https://landrecords.karnataka.gov.in/
 
 ## 🌐 Useful Info – Our Official Partner Sites
 
@@ -24,6 +28,7 @@ These are our own websites where we publish additional job alerts, news, Govt. S
 - [https://telugupublicnews.in/](https://telugupublicnews.in/)
 - [https://annadathasukhibhava.co.in/](https://annadathasukhibhava.co.in/)
 - https://postalinsurancecalc.com/
+- https://bhoomiforrtc.in/
 
 ## ⚠️ Disclaimer
 
