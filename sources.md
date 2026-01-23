@@ -39,6 +39,8 @@ These are our own websites where we publish additional job alerts, news, Govt. S
 - https://meebhoomiap.com.in/
 - https://apsuper6.com/
 - https://annadathasukhibhava.com.in/
+- https://teluguinsight.com/
+- https://examwire.in/
 
 ## ⚠️ Disclaimer
 
