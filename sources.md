@@ -2,6 +2,9 @@
 
 This document contains a list of official government websites used as sources in our app for job alerts, schemes, and news.
 
+<strong>⚠️ Important Note:</strong>
+Sometimes official government portals may experience high traffic, downtime, or temporary loading issues. In such cases, users are advised to retry after some time or check again later. We always recommend verifying final details on official websites before applying.
+
 ## 🏛️ Central Government Websites
 - [UPSC](https://www.upsc.gov.in/)
 - [SSC](https://ssc.nic.in/)
